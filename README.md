@@ -4,7 +4,7 @@
 [![LlamaIndex](https://img.shields.io/badge/LlamaIndex-0.12.42-green.svg)](https://www.llamaindex.ai/)
 [![Google Gemini](https://img.shields.io/badge/Google%20Gemini-2.0%20Flash-orange.svg)](https://ai.google.dev/)
 [![VOSK](https://img.shields.io/badge/VOSK-0.3.45-red.svg)](https://alphacephei.com/vosk/)
-[![License](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
+
 [![Jupyter](https://img.shields.io/badge/Jupyter-Notebooks-orange.svg)](https://jupyter.org/)
 
 > 🤖 **Intelligent document processing workflows with human-in-the-loop feedback, voice interaction, and RAG-powered automation using Google Gemini and offline speech recognition.**
@@ -26,7 +26,6 @@
 - [🛠️ Technologies](#️-technologies)
 - [📈 Performance](#-performance)
 - [🤝 Contributing](#-contributing)
-- [📄 License](#-license)
 
 ## 🌟 Features
 
@@ -400,10 +399,6 @@ We welcome contributions! Here's how you can help:
 
 ### 🐛 **Bug Reports**
 Please use the [issue tracker](https://github.com/jagadeshchilla/Event-Driven-Agentic-Document-Workflows/issues) to report bugs.
-
-## 📄 License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
 ---
 
