@@ -1,0 +1,15 @@
+# requirements file
+# note which revision of python, for example 3.9.6
+# in this file, insert all the pip install needs, include revision
+
+python-dotenv
+llama-index-core
+llama-index-utils-workflow
+llama-index-llms-gemini
+llama-index-embeddings-gemini
+llama-parse
+vosk
+gradio
+google-generativeai
+
+ipykernel
